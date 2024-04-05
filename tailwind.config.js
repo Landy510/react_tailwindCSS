@@ -5,9 +5,9 @@ export default {
   ],
   theme: {
     colors: {
-      white: 'rgb(255, 255, 255, 1)',
-      black: 'rgb(0, 0, 0, 1)',
-      grey: 'rgb(0, 0, 0, 0.6)',
+      white: 'rgba(255, 255, 255, 1)',
+      black: 'rgba(0, 0, 0, 1)',
+      grey: 'rgba(0, 0, 0, 0.6)',
       purple: 'rgba(108, 81, 226, 1)',
     },
     screens: {
