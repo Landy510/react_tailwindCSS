@@ -23,6 +23,8 @@
   "include": [
     "src/**/*",
     ".eslintrc.cjs",
+    "postcss.config.js",
+    "tailwind.config.js",
     "commitlint.config.ts",
     "vite.config.ts"
   ]

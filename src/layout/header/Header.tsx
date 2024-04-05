@@ -1,5 +1,5 @@
 export default Header;
 
 function Header() {
-  return <div>This is Header</div>;
+  return <div className="text-center">This is Header</div>;
 }
