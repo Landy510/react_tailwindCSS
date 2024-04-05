@@ -13,6 +13,7 @@
 - React - v18
 - React router - v6
 - TypeScript
+- tailwindcss
 
 ### 開發環境需求
 - Node.js >= 20.11.1 LTS
